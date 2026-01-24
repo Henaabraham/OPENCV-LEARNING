@@ -79,7 +79,7 @@ This repository contains my OpenCV practice projects while learning Computer Vis
 **File:** `Day9_cctv_dashboard.py`
 
 ---
-
+"Day 10: Face Detection + Save face image using OpenCV"
 ## 🚀 How to Run
 
 ### 1️⃣ Install OpenCV
